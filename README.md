@@ -17,5 +17,10 @@ Project 3: Automated the PRD + Figma analysis into AI generated test cases for f
 
 ## Future goals in the upcoming months.
 AI Engineering path.
-- Increasing SQL & Python mastery for Machine learning and agentic AI purposes.
+- Increasing SQL & Python mastery for Machine learning and Agentic AI purposes.
 - Gather an understanding of project deployment + Docker understanding.
+
+Robotics Goals
+- Revise all courses related to electrical engineering (basic circuits up to multistage amps and control systems).
+- Try to apply and do mini Robotics related projects with RaspberryPI + Arduino/ESP.
+
